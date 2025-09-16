@@ -1,9 +1,9 @@
 title: "Guilherme Medeiros"
 description: "London-based iOS engineer"
+
 url: "https://guibrasil.github.io"   # no trailing slash
 baseurl: "/guibrasilmed"              # note the leading slash
 
-# Use Hyde as a remote theme
-remote_theme: poole/hyde
+remote_theme: poole/hyde@v2.1.0
 plugins:
   - jekyll-remote-theme
